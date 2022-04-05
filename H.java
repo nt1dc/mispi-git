@@ -1,4 +1,4 @@
-public interface H {
+public class H extends null {
 
     double ee();
 

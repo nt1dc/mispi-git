@@ -1,4 +1,4 @@
-public class J implements I, H {
+public class J extends null implements I, H {
 
     private byte e = 1;
 
@@ -28,11 +28,27 @@ public class J implements I, H {
         return 3.14;
     }
 
+    public int af() {
+        return -1;
+    }
+
     public java.lang.Class qq() {
         return getClass();
     }
 
-    public int af() {
-        return -1;
+    public void ab() {
+        return;
+    }
+
+    public int ae() {
+        return 9;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public void aa() {
+        return;
     }
 }
