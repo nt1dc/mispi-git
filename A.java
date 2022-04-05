@@ -31,4 +31,8 @@ public class A implements I {
     public long dd() {
         return 33;
     }
+
+    public long ac() {
+        return 222;
+    }
 }

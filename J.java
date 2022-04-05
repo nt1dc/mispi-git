@@ -39,4 +39,8 @@ public class J implements I, H {
     public void ab() {
         return;
     }
+
+    public int ae() {
+        return 9;
+    }
 }
