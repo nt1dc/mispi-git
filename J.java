@@ -63,4 +63,8 @@ public class J extends null implements I, H {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public byte oo() {
+        return 2;
+    }
 }

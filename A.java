@@ -47,4 +47,8 @@ public class A extends null implements I {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public float ff() {
+        return 0;
+    }
 }
