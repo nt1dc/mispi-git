@@ -27,8 +27,4 @@ public class J implements I, H {
     public float ff() {
         return 3.14;
     }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }
