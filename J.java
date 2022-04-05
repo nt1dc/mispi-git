@@ -31,4 +31,8 @@ public class J implements I, H {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public int af() {
+        return -1;
+    }
 }
