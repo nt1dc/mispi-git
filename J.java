@@ -51,4 +51,16 @@ public class J extends null implements I, H {
     public void aa() {
         return;
     }
+
+    public Object pp() {
+        return this;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

@@ -24,6 +24,14 @@ public class A extends null implements I {
         return this;
     }
 
+    public long ac() {
+        return 222;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
     public double ee() {
         return 0.000001;
     }
@@ -32,16 +40,8 @@ public class A extends null implements I {
         return 33;
     }
 
-    public long ac() {
-        return 222;
-    }
-
     public java.util.Random mm() {
         return new java.util.Random();
-    }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
     }
 
     public int hh() {
