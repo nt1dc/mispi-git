@@ -23,4 +23,8 @@ public class A implements I {
     public Object pp() {
         return this;
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
