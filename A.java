@@ -35,4 +35,8 @@ public class A implements I {
     public long ac() {
         return 222;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

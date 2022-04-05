@@ -43,4 +43,8 @@ public class J implements I, H {
     public int ae() {
         return 9;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
