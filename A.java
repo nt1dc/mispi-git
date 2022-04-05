@@ -27,4 +27,8 @@ public class A implements I {
     public double ee() {
         return 0.000001;
     }
+
+    public long dd() {
+        return 33;
+    }
 }

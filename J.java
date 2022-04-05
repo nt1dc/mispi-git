@@ -35,4 +35,8 @@ public class J implements I, H {
     public int af() {
         return -1;
     }
+
+    public void ab() {
+        return;
+    }
 }
